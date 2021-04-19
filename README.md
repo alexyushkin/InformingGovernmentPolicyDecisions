@@ -1,4 +1,4 @@
-# InformingGovernmentPolicyDecisions
+# Informing Government Policy Decisions
 
 ## Scenario
 
